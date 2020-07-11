@@ -1,4 +1,4 @@
-</h1><em> ECNA - EM CRIPTOGRAFIA NÓS ACREDITAMOS - https://ecnca.netlify.app/index.html<em></h1>
+</h1><em><span>ECNA - EM CRIPTOGRAFIA NÓS ACREDITAMOS - https://ecnca.netlify.app/index.html<span><em></h1>
 
 Foi um projeto voltado para a conclusão da formação de Front end da Digital House Brasil. O projeto foi dividido em duas sprints diferentes.
 
